@@ -163,7 +163,7 @@ function setVars() {
 		iniziativaStandard		= $('select[title="Iniziativa standard"]')[0];
 		selectMeseEF 			= $('select[title="Mese EF"]')[0];
 		selectContenuto 		= $('select[title=Contenuto]')[0];
-		gruppoEventi 			= $('select[title="Gruppo eventi"]')[0];
+		gruppoEventi 			= $('input[title="Gruppo eventi"]')[0];
 		selectRegione			= $('select[title="Regione"]')[0];
 		// visualizzazioneCalendario	= $('input[title=VisualizzazioneCalendario]')[0];
 		
