@@ -159,12 +159,12 @@ function setVars() {
 		altraFiliale 			= $('select[title="Altra filiale"]')[0];
 		tipoLuogo 			= $('select[title="Tipo luogo"]')[0];
 		iniziativaLocale	   	= $('select[title="Iniziativa Locale"]')[0];
-		selectFormat 			= $('select[title=Format__]')[0];
+		selectFormat 			= $('select[title=Format]')[0];
 		iniziativaStandard		= $('select[title="Iniziativa standard"]')[0];
-		selectMeseEF 			= $('select[title*="Mese EF"]')[0];
-		selectContenuto 		= $('select[title*=Contenuto]')[0];
+		selectMeseEF 			= $('select[title="Mese EF"]')[0];
+		selectContenuto 		= $('select[title=Contenuto]')[0];
 		gruppoEventi 			= $('select[title="Gruppo eventi"]')[0];
-		selectRegione			= $('select[title*="Regione"]')[0];
+		selectRegione			= $('select[title="Regione"]')[0];
 		// visualizzazioneCalendario	= $('input[title=VisualizzazioneCalendario]')[0];
 		
 	}
