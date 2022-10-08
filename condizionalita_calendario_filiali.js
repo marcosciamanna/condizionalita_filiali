@@ -56,7 +56,7 @@ function setOptions() {
 			"Progetto PCTO": [
 			"---seleziona---",
 			"PCTO - promozione",
-			"PCTO - formatori",
+			"PCTO - studenti",
 			"PCTO - follow-up studenti"
 	    	],
 		"Nessun progetto di riferimento": [
